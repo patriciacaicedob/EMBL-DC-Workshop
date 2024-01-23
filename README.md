@@ -1,2 +1,2 @@
-# EMBL-DC-Workshop
+# EMBL-DC-Workshop-Git
 EMBL course practice
